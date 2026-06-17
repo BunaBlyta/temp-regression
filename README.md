@@ -115,10 +115,3 @@ Example output:
 98.60°F is about 37.00°C
 ```
 
-## What I Learned
-
-- How to create tensors for numeric training data.
-- How to build a simple `torch.nn.Linear` regression model.
-- How loss measures the difference between predictions and correct answers.
-- How backpropagation and an optimizer help a model improve.
-- How to save a trained PyTorch model and load it later for prediction.
